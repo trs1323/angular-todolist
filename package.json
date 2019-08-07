@@ -2,7 +2,7 @@
   "name": "angular-todolist",
   "version": "0.0.0",
   "main": "index.html",
-  "homepage": "https://trs1323.github.io/todolist_angular",
+  "homepage": "https://trs1323.github.io/angular-todolist/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
